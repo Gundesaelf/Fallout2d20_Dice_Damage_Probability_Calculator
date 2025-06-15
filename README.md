@@ -53,3 +53,5 @@ You will see output like:
 ---
 
 Feel free to customize this script to model other dice-based damage mechanics!
+
+## 🔗 Connect with me https://www.linkedin.com/in/chris-gundes
